@@ -1,3 +1,5 @@
+For newer personal projects, please visit my [codeberg](https://codeberg.org/jenocres).
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
